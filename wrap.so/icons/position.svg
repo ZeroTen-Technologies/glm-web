@@ -1,0 +1,7 @@
+<svg id="Scale_Tool_Move" data-name="Scale, Tool, Move" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="Group_420" data-name="Group 420">
+    <path id="Path_70" data-name="Path 70" d="M10,21H5a2,2,0,0,1-2-2V14a2,2,0,0,1,2-2h5a2,2,0,0,1,2,2v5A2,2,0,0,1,10,21Z" fill="none" stroke="#1e2126" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Path_73" data-name="Path 73" d="M16,21h3a2,2,0,0,0,2-2V5a2,2,0,0,0-2-2H5A2,2,0,0,0,3,5V8" fill="none" stroke="#1e2126" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+  </g>
+  <path id="Path_74" data-name="Path 74" d="M0,0H24V24H0Z" fill="none"/>
+</svg>

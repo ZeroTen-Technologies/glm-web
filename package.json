@@ -1,0 +1,29 @@
+{
+  "name": "group-lead-manager",
+  "version": "1.0.0",
+  "description": "this is the group lead manager web version",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZeroTen-Technologies/glm-web.git"
+  },
+  "keywords": [
+    "group",
+    "lead",
+    "manager"
+  ],
+  "author": "ome chukwuemeka ogodo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZeroTen-Technologies/glm-web/issues"
+  },
+  "homepage": "https://github.com/ZeroTen-Technologies/glm-web#readme",
+  "dependencies": {
+    "express": "^4.18.0",
+    "nodemon": "^2.0.16"
+  }
+}
