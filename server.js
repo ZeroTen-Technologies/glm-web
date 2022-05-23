@@ -19,6 +19,11 @@ app.use(express.static('public'));
 //   res.sendFile(path.resolve(__dirname, 'pages/register.html'));
 // });
 
+app.get('/', (req, res) => {
+  res.status(200).send('Group Lead Messenger');
+});
+
+
 app.get('/login', (req, res) => {
   res.status(200).end();
 });
