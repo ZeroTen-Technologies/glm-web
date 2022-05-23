@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/ZeroTen-Technologies/glm-web#readme",
   "dependencies": {
-    "express": "^4.18.0",
+    "express": "^4.18.1",
     "nodemon": "^2.0.16"
   }
 }
